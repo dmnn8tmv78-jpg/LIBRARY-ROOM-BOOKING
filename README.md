@@ -32,8 +32,8 @@ The system follows a client-server architecture where the frontend communicates 
 - Week 4: System testing and final deployment (Demo) and Maintence checking.
 
 ## Grouping Process
-Finding suitable group members
-Organized a group chat for daily updates and task tracking.
- Identified individual skill sets (HTML/CSS for Ul, PHP for Logic).
- Scheduled weekly sync meetings to review progress and debug code together.
- Finalized all deliverables and checked against the SMART requirements.
+- Finding suitable group members
+- Organized a group chat for daily updates and task tracking.
+- Identified individual skill sets (HTML/CSS for Ul, PHP for Logic).
+- Scheduled weekly sync meetings to review progress and debug code together.
+- Finalized all deliverables and checked against the SMART requirements.
