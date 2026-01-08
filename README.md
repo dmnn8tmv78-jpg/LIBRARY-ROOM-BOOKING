@@ -26,14 +26,14 @@ The Library Room Booking System is a web-based application that allows students 
 The system follows a client-server architecture where the frontend communicates with PHP backend scripts that handle validation, database operations, and email notifications.
 
 ## 4-Week Development Plan
-- Week 1: Planning and UI wireframe design
-- Week 2: Database setup and booking form
-- Week 3: Admin dashboard and email integration
-- Week 4: Testing and final deployment
+- Week 1: Planning and analysis of Ui Wireframe (Design a flowchat for booking).
+- Week 2: Design of Database set up and making student booking form.
+- Week 3: Development of Admin dashboard and Email API integration.
+- Week 4: System testing and final deployment (Demo) and Maintence checking.
 
-## How to Run
-1. Install XAMPP
-2. Place the project folder in `htdocs`
-3. Import the SQL file from `/database`
-4. Configure database credentials in `config.php`
-5. Open `index.html` in your browser
+## Grouping Process
+Finding suitable group members
+Organized a group chat for daily updates and task tracking.
+ Identified individual skill sets (HTML/CSS for Ul, PHP for Logic).
+ Scheduled weekly sync meetings to review progress and debug code together.
+ Finalized all deliverables and checked against the SMART requirements.
